@@ -13,7 +13,7 @@
 > **Внимание:** Данный репозиторий содержит только программный код и его базовые описания. Полный теоретический разбор, выводы формул и методические указания читайте в новой книге.
 >
 Для того чтобы понимать примеры и было удобно с ними работать стоит ознакомится
-с файлом в файле [`AboutPython.ipynb`](AboutPython.ipynb), в котором представлены
+с файлом [`AboutPython.ipynb`](AboutPython.ipynb), в котором представлены
 базовые понятия языка Python, используемые в книге.
 
 ## 🚀 Быстрый старт
@@ -27,8 +27,7 @@
 Для работы с файлами можно использовать [Jupyter](https://jupyter.org/), [Visual Studio
 Code](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/) и
 сервис от [Google Colab](https://colab.research.google.com/) для работы с
-Jupyter Notebook. Имеет возможность использования библиотеки TensorFlow для
-обучения нейронных сетей.
+Jupyter Notebook.
 
 ### Клонирование репозитория
 
@@ -46,8 +45,8 @@ Jupyter Notebook. Имеет возможность использования �
 #### На личном ПК
 
 ```bash
-git clone https://github.com/[ваш_логин]/porshnev-physics-simulations-python.git
-cd porshnev-physics-simulations-python
+git clone https://github.com/YuliaTimoshenkova/computer-modeling-of-physical-processes-and-systems-using-python.git
+cd computer-modeling-of-physical-processes-and-systems-using-python
 ```
 
 Для полноценной работы так же придется создать или настроить виртуальное окружение
