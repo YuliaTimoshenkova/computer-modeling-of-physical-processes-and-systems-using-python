@@ -112,9 +112,9 @@ jupyter notebook
 
 ## ✉️ Авторы
 
-* Сергей Поршнев [author@example.com](mailto:author@example.com)
+* Сергей Поршнев [s.v.porshnev@urfu.ru](s.v.porshnev@urfu.ru)
 * Николай Сафиуллин, [@sflnnik](https://github.com/sflnnik)
-* Юлия Тимошенкова, [@YuliaTimoshenkova](https://github.com/YuliaTimoshenkova), [author@example.com](mailto:juliatimoshenkova@gmail.com)
+* Юлия Тимошенкова, [@YuliaTimoshenkova](https://github.com/YuliaTimoshenkova), [juliatimoshenkova@gmail.com](mailto:juliatimoshenkova@gmail.com)
 
 ## 🤝 Вклад (Contributing)
 
