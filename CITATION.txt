@@ -1,0 +1,2 @@
+C. В. Поршнев, Н.Т. Сафиуллин, Ю. С. Тимошенкова Компьютерное моделирование физических процессов на языке Python.
+GitHub: https://github.com/YuliaTimoshenkova/<REPOSITORY_NAME>
